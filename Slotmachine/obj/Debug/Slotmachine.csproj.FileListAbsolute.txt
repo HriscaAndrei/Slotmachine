@@ -1,0 +1,10 @@
+C:\Users\andre\Desktop\slotmachine\Slotmachine\Slotmachine\bin\Debug\Slotmachine.exe.config
+C:\Users\andre\Desktop\slotmachine\Slotmachine\Slotmachine\bin\Debug\Slotmachine.exe
+C:\Users\andre\Desktop\slotmachine\Slotmachine\Slotmachine\bin\Debug\Slotmachine.pdb
+C:\Users\andre\Desktop\slotmachine\Slotmachine\Slotmachine\obj\Debug\Slotmachine.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\slotmachine\Slotmachine\Slotmachine\obj\Debug\Slotmachine.Form1.resources
+C:\Users\andre\Desktop\slotmachine\Slotmachine\Slotmachine\obj\Debug\Slotmachine.Properties.Resources.resources
+C:\Users\andre\Desktop\slotmachine\Slotmachine\Slotmachine\obj\Debug\Slotmachine.csproj.GenerateResource.Cache
+C:\Users\andre\Desktop\slotmachine\Slotmachine\Slotmachine\obj\Debug\Slotmachine.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\slotmachine\Slotmachine\Slotmachine\obj\Debug\Slotmachine.exe
+C:\Users\andre\Desktop\slotmachine\Slotmachine\Slotmachine\obj\Debug\Slotmachine.pdb
